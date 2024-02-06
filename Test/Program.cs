@@ -7,6 +7,10 @@
             Console.WriteLine("Hello, Alba!");
             Console.WriteLine("Hello, Alba!");
             Console.WriteLine("Hello, Alba!");
+            Console.WriteLine("Hello, Alba!");
+            Console.WriteLine("Hello, Alba!");
+            Console.WriteLine("Hello, Alba!");
+            //added lines
         }
     }
 }
